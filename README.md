@@ -16,24 +16,24 @@
 
 ---
 
-## 📺 About
+## About
 
 **AnikenTV** is a native anime streaming application built specifically for Android TV and Google TV devices. It is a fork of Anilili app, bringing a refreshed modern interface, reliable D-pad navigation, robust playback performance, and expanded streaming sources directly to your television.
 
 ---
 
-## ✨ Features & Highlights
+## Features & Highlights
 
 - **TV-Optimized Modern UI:** Designed specifically for leanback navigation with native focus states, smooth transitions, and high-contrast D-pad remote support.
 - **Powerful Video Player:** Robust media engine supporting fast HLS/DASH streaming, dynamic quality switching, episode auto-play, intro/outro skipping, and custom aspect-ratio scaling.
 - **Multi-Source Scraping:** Aggregates streams across a wide range of fast providers, including Miruro, AniKoto, ReAnime, AniZone, AniNeko, AniBD, 2DHive, and more.
-- **Seamless Account Sync:** Direct two-way tracking with AniList** and MyAnimeList to sync watch history, episode progress, ratings, and custom watchlists automatically.
+- **Seamless Account Sync:** Connect with your Anilist or MyAnimeList account to sync watch history, episode progress, ratings, and watchlists automatically.
 - **Hardware-Accelerated Decoding:** Direct on-device stream decoding via Miruro pipe endpoints alongside fallback WebView/embed client resolution.
-- **Episode & Server Management:** Quick server fallback switching, sub/dub toggling, and multi-audio stream selection on the fly.
+- **Episode & Server Management:** Quick server fallback switching, sub/dub toggling, and multi-audio stream selection.
 
 ---
 
-## 🖼️ Showcase
+## Showcase
 
 <div align="center">
   <img src="showcase/home.png" width="49%" alt="AnikenTV Home Screen" />
@@ -48,27 +48,26 @@
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. Download the latest release APK from the [Releases page](https://github.com/gg-shub/anilili-tv/releases).
-2. Sideload the APK onto your Android TV / Google TV box using **ADB**, a flash drive, or a local file transfer app (such as *Send Files to TV*).
+2. Sideload the APK onto your Android TV / Google TV using **ADB**, a flash drive, or a local file transfer app (such as *Send Files to TV*).
 3. Open **AnikenTV** and start watching.
 
 ---
 
-## 💬 Community & Support
+## Community & Support
 
 Have a question, feature request, or need to report a broken provider? Join the community server:
 
 <div align="center">
-  <a href="https://discord.gg/Mtq4aV2f2p">
+  <a href="https://discord.gg/6UUy55gqrk">
     <img src="https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord Server" />
   </a>
 </div>
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-> **Note:** AnikenTV is a non-commercial, personal, and educational project. It does not host any media files or content on its own servers. All media is resolved through third-party indexers and public APIs (AniList, MyAnimeList, Miruro, AniKoto, ReAnime, AniZone, AnimeGG, AniNeko, AniBD, 2DHive). This project is not officially affiliated with or endorsed by any of the listed third parties.
-
+> **Note:** AnikenTV is a non-commercial, personal, and educational project. It does not host any media files or content on its own servers. All media is resolved through third-party indexers and public APIs (AniList, MyAnimeList, Miruro, AniKoto, ReAnime, AniZone, AnimeGG, Anichan, AniBD, 2DHive). This project is not officially affiliated with or endorsed by any of the listed third parties.
